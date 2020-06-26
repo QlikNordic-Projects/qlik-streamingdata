@@ -37,6 +37,8 @@ Qlik Sense Enterprise
 * Create a new connection
 * Change the URL connection (if you are not running against localhost or port 3000)
 * Make sure that your user has rights to read the connection
+* Open Qlik Management Console and go to extensions
+* Upload the jbi-suppressError.zip
 
 Node app.js
 * Open the app.js in a text editor
