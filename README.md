@@ -55,8 +55,8 @@ node app
 
 ## Authors
 
-* **Alexander Jaballah** - *alexander.jaballah@qlik.com*
-* **Johan Bäcklin** - *johan.backlin@qlik.com*
+* **Alexander Jaballah**
+* **Johan Bäcklin** - *https://github.com/j-backlin*
 
 
 ## License
