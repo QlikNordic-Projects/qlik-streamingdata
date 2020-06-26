@@ -57,7 +57,7 @@ node app
 
 ## Authors
 
-* **Alexander Jaballah** - https://github.com/Alexanderjaballah
+* **Alexander Jaballah** - *https://github.com/Alexanderjaballah*
 * **Johan Bäcklin** - *https://github.com/j-backlin*
 
 
